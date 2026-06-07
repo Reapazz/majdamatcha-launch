@@ -4,6 +4,8 @@ MajdaMatcha is a premium matcha coffee shop concept for Saudi Arabia. This works
 
 ## Run The Website
 
+Live site: https://reapazz.github.io/majdamatcha-launch/
+
 ```bash
 npm install
 npm run dev
